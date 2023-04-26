@@ -1,0 +1,7 @@
+tr:nth-child(odd) {                                      /* gorizantal */
+    background-color: aqua;
+}
+
+td:nth-child(even), th:nth-child(even) {                 /* vertikal */
+    background-color: aqua;
+}
